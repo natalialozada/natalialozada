@@ -2,7 +2,8 @@
 <div style="display: flex; align-items: flex-start;">
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" style="margin-right: 20px; margin-bottom: 20px;"/>
   <div style="text-align: justify; flex: 1;">
-    <p>¡Hola! 👋 Soy Natalia</p>
+   <h1 style="font-size: 2.5rem; text-align: center; margin-bottom: 20px;">¡Hola! 👋 Soy Natalia</h1>
+
     <p>Soy una persona <strong>curiosa</strong> y <strong>creativa</strong>, apasionada por la <strong>tecnología</strong> y el desarrollo de soluciones digitales que mejoren la vida de las personas. Como <strong>Técnica Superior en Desarrollo de Aplicaciones Multiplataforma</strong>, me encanta crear <strong>aplicaciones</strong> que funcionen de manera fluida y atractiva en múltiples dispositivos y plataformas.</p>
     <p>Mi formación me ha permitido dominar diversos lenguajes de programación como <strong>JavaScript</strong>, <strong>Java</strong>, <strong>PHP</strong>, <strong>SQL</strong>, entre otros. Lo que más disfruto de esta profesión son los retos que me permiten aprender y crecer constantemente. Cada desafío es una oportunidad para mejorar y seguir desarrollándome como profesional.</p>
     <p>Siempre estoy en la búsqueda de nuevas oportunidades para seguir aprendiendo y contribuir al desarrollo de productos innovadores.</p>
