@@ -1,15 +1,23 @@
- 
-<div style="display: flex; align-items: flex-start;">
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px" style="margin-right: 20px; margin-bottom: 20px;"/>
-  <div style="text-align: justify; flex: 1;">
-   <h1 style="font-size: 2.5rem; text-align: center; margin-bottom: 20px;">¡Hola! 👋 Soy Natalia</h1>
+<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
+  <h1 style="font-size: 2.5rem; text-align: center; margin-bottom: 20px;">¡Hola! 👋 Soy Natalia</h1>
+  
+  <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px; max-width: 800px;">
+    <img 
+      src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" 
+      alt="GIF" 
+      style="width: 200px; border-radius: 8px;"
+    />
 
-    <p>Soy una persona <strong>curiosa</strong> y <strong>creativa</strong>, apasionada por la <strong>tecnología</strong> y el desarrollo de soluciones digitales que mejoren la vida de las personas. Como <strong>Técnica Superior en Desarrollo de Aplicaciones Multiplataforma</strong>, me encanta crear <strong>aplicaciones</strong> que funcionen de manera fluida y atractiva en múltiples dispositivos y plataformas.</p>
-    <p>Mi formación me ha permitido dominar diversos lenguajes de programación como <strong>JavaScript</strong>, <strong>Java</strong>, <strong>PHP</strong>, <strong>SQL</strong>, entre otros. Lo que más disfruto de esta profesión son los retos que me permiten aprender y crecer constantemente. Cada desafío es una oportunidad para mejorar y seguir desarrollándome como profesional.</p>
-    <p>Siempre estoy en la búsqueda de nuevas oportunidades para seguir aprendiendo y contribuir al desarrollo de productos innovadores.</p>
-    <p>Además, fuera del mundo de la programación, me encanta patinar. Es mi forma de desconectar, relajarme y encontrar inspiración 🌈.</p>
+    <div style="text-align: justify; flex: 1;">
+      <p><strong>Soy una persona <span style="color: #ff6347;">curiosa</span> y <span style="color: #ff6347;">creativa</span></strong>, apasionada por la <strong>tecnología</strong> y el desarrollo de soluciones digitales que mejoren la vida de las personas. Como <strong>Técnica Superior en Desarrollo de Aplicaciones Multiplataforma</strong>, me encanta crear <strong>aplicaciones</strong> que funcionen de manera fluida y atractiva en múltiples dispositivos y plataformas.</p>
+      <p>Mi formación me ha permitido dominar diversos lenguajes de programación como <strong>JavaScript</strong>, <strong>Java</strong>, <strong>PHP</strong>, <strong>SQL</strong>, entre otros. Lo que más disfruto de esta profesión son los retos que me permiten aprender y crecer constantemente. Cada desafío es una oportunidad para mejorar y seguir desarrollándome como profesional.</p>
+      <p>Siempre estoy en la búsqueda de nuevas oportunidades para seguir aprendiendo y contribuir al desarrollo de productos innovadores.</p>
+      <p>Además, fuera del mundo de la programación, me encanta patinar. Es mi forma de desconectar, relajarme y encontrar inspiración 🌈.</p>
+    </div>
   </div>
 </div>
+
+
 
 
 
