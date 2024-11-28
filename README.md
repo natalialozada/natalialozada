@@ -1,28 +1,28 @@
-<div style="display: flex; flex-direction: column; align-items: center; margin: 20px;">
-  <h1 style="font-size: 2.5rem; text-align: center; margin-bottom: 20px;">¡Hola! 👋 Soy Natalia</h1>
-  
-  <div style="display: flex; flex-direction: row; align-items: flex-start; gap: 20px; max-width: 800px;">
-    <img 
-      src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" 
-      alt="GIF" 
-      style="width: 200px; border-radius: 8px;"
-    />
+---
+<h1 align="center">¡Hola! Soy Natalia</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300">
+</p>
+<p align="left"> Soy una persona curiosa y creativa, apasionada por la tecnología y el desarrollo de soluciones digitales que mejoren la vida de las personas. Como Técnica Superior en Desarrollo de Aplicaciones Multiplataforma, me encanta crear aplicaciones que funcionen de manera fluida y atractiva en múltiples dispositivos y plataformas. </p>
 
-    <div style="text-align: justify; flex: 1;">
-      <p><strong>Soy una persona <span style="color: #ff6347;">curiosa</span> y <span style="color: #ff6347;">creativa</span></strong>, apasionada por la <strong>tecnología</strong> y el desarrollo de soluciones digitales que mejoren la vida de las personas. Como <strong>Técnica Superior en Desarrollo de Aplicaciones Multiplataforma</strong>, me encanta crear <strong>aplicaciones</strong> que funcionen de manera fluida y atractiva en múltiples dispositivos y plataformas.</p>
-      <p>Mi formación me ha permitido dominar diversos lenguajes de programación como <strong>JavaScript</strong>, <strong>Java</strong>, <strong>PHP</strong>, <strong>SQL</strong>, entre otros. Lo que más disfruto de esta profesión son los retos que me permiten aprender y crecer constantemente. Cada desafío es una oportunidad para mejorar y seguir desarrollándome como profesional.</p>
-      <p>Siempre estoy en la búsqueda de nuevas oportunidades para seguir aprendiendo y contribuir al desarrollo de productos innovadores.</p>
-      <p>Además, fuera del mundo de la programación, me encanta patinar. Es mi forma de desconectar, relajarme y encontrar inspiración 🌈.</p>
-    </div>
-  </div>
-</div>
+---
+## 🌟 Sobre Mí:
+- 🎓 Mi formación me ha permitido dominar diversos lenguajes de programación como **JavaScript**, **Java**, **PHP**, **SQL**, entre otros.
+- 💻 Lo que más disfruto de esta profesión son los **retos** que me permiten aprender y crecer constantemente. Cada desafío es una oportunidad para mejorar y seguir desarrollándome como profesional.
+- 🎯 Siempre estoy en la búsqueda de nuevas **oportunidades** para seguir aprendiendo y contribuir al desarrollo de productos innovadores.
 
+---
 
-
+### 🌈 Fuera del mundo de la programación:
+Me encanta **patinar**. Es mi forma de desconectar, relajarme y encontrar **inspiración**.
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Natalia Lozada) 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250">
+</p>
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
