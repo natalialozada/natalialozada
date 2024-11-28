@@ -32,7 +32,7 @@ Me encanta **patinar**. Es mi forma de desconectar, relajarme y encontrar **insp
 </p>
 
 
-
+---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=natalialozada&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
