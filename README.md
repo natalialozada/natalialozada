@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300">
 </p>
-<p align="left"> Soy una persona curiosa y creativa, apasionada por la tecnología y el desarrollo de soluciones digitales que mejoren la vida de las personas. Como Técnica Superior en Desarrollo de Aplicaciones Multiplataforma, me encanta crear aplicaciones que funcionen de manera fluida y atractiva en múltiples dispositivos y plataformas. </p>
+<p align="center"> Soy una persona curiosa y creativa, apasionada por la tecnología y el desarrollo de soluciones digitales que mejoren la vida de las personas. Como Técnica Superior en Desarrollo de Aplicaciones Multiplataforma, me encanta crear aplicaciones que funcionen de manera fluida y atractiva en múltiples dispositivos y plataformas. </p>
 
 ---
 ## 🌟 Sobre Mí:
